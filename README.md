@@ -2,7 +2,7 @@
 
 **`Estudante de técnico de informática na ETEC Bartolomeu Bueno da Silva`**
 
-Meu nome é Nicolas Gabriel Morales Porto, tenho 18 anos e nasci em Cajamar-SP. Atualmente estou no último ano do ensino médio na ETEC, no curso técnico em informática. Gosto muito de tecnologia e se tudo der certo, pretendo cursar Ciência da Computação.
+Sou Nicolas Gabriel Morales Porto, tenho 18 anos e sou de Cajamar (SP). Atualmente curso o Técnico em Informática na ETEC Bartolomeu Bueno da Silva, onde estou no último ano do ensino médio integrado. Tenho grande interesse por tecnologia e desenvolvimento de sistemas, e pretendo seguir carreira em Ciência da Computação para aprofundar meus conhecimentos na área.
 
 <p align="left">
     <a href="https://github.com/NicolasGMPorto?tab=repositories&sort=stargazers">
