@@ -1,98 +1,86 @@
-# 👩🏻‍💻 NicolasGMPorto
+<div align="center">
 
-**`Estudante de técnico de informática na ETEC Bartolomeu Bueno da Silva`**
+# 👋 Olá! Eu sou o Nicolas Gabriel
 
-Sou Nicolas Gabriel Morales Porto, tenho 18 anos e sou de Cajamar (SP). Sou formado no Ensino Médio integrado ao Técnico em Informática pela ETEC Bartolomeu Bueno da Silva. Possuo interesse em desenvolvimento de sistemas, programação e tecnologias computacionais, com foco em boas práticas, lógica de programação e resolução de problemas. Pretendo cursar Ciência da Computação para aprofundar conhecimentos em estruturas de dados, engenharia de software e áreas correlatas, visando atuação profissional no setor de tecnologia.
-
-<p align="left">
-    <a href="https://github.com/NicolasGMPorto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/nicolasgmporto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/NicolasGMPorto?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/nicolasgmporto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=2563EB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+ADS+na+FATEC+Santana+de+Parna%C3%ADba;Sempre+aprendendo+algo+novo." />
 </p>
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Sou **Técnico em Informática** e estudante de **Análise e Desenvolvimento de Sistemas** na **FATEC Santana de Parnaíba**.
 
-<br/>
-<br/>
+Tenho interesse em desenvolvimento web, back-end e banco de dados, sempre buscando evoluir através de projetos práticos, estudos e novos desafios.
 
-### 📊 Estatísticas
+Atualmente estou construindo meu portfólio para conquistar minha primeira oportunidade como desenvolvedor.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicolasgmporto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasgmporto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🚀 Tecnologias
 
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+- 💻 Desenvolvimento Web
+- 🗄️ Banco de Dados
+- 📖 Estruturas de Dados
+- ⚙️ Engenharia de Software
+- 🔄 Git & GitHub
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Evoluir continuamente como desenvolvedor.
+- 💼 Conquistar minha primeira oportunidade na área de tecnologia.
+- 📂 Construir um portfólio sólido.
+- 📖 Aprender novas tecnologias e boas práticas.
+
+---
+
+## 📌 Projetos
+
+Em breve você encontrará aqui projetos como:
+
+- 🌐 Portfólio Pessoal
+- 📦 Sistema de Estoque
+- 👥 Sistema de Cadastro
+- 📊 Dashboard com Power BI
+- 🐍 Projetos em Python
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:nicolasgmp07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/nicolasgmporto">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Obrigado por visitar meu perfil!**
+
+</div>
